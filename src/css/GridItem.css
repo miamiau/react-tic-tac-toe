@@ -1,0 +1,8 @@
+button.grid-item {
+    height: 100px;
+    width: 100px;
+    border-color: purple;
+    border-width: 3px;
+    margin: 1px;
+    font-size: x-large;
+}

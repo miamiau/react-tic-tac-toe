@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.tic-tac-toe-grid {
+  margin: auto;
+  padding-top: 70px;
+  display: flex !important;
+  flex-direction: column;
+}
+
+.reset-button {
+  height: 50px;
+  width: 100px;
+  margin: 25px;
+  justify-content: center;
+  align-self: center;
+}
+
+div.container {
+  display: flex !important;
+  justify-content: center;
+  align-self: center;
+}
